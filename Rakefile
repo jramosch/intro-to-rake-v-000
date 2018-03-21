@@ -1,4 +1,4 @@
-
+Rake.application.options.trace = true
 
 namespace :greeting do
   desc 'outputs hello to the terminal'
